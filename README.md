@@ -1,1 +1,1 @@
-#### php8.0 with Composer and Mongodb-extension enabled
+#### php8.0 with Composer and Mongodb-extension and soap-extension enabled
